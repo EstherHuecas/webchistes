@@ -1,0 +1,49 @@
+.bg-azulclaro{
+    background-color: #9FB3C5 !important;
+}
+
+.bg-azulclarito{
+    background-color: #C2D3DE !important; 
+}
+
+.bordes-redondos{
+    border-radius: 0.2cm;
+}
+.cajagrandemedio{
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.cajagrande{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+.tipo-letra{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btn-transparent{
+    background-color: transparent;
+}
+.negrita-letra{
+    font-weight: bold;
+}
+.bg-chicha{
+    background-color: #EAB9B9 !important;
+}
+
+.rating {
+	font-size: 0 ;
+	display: inline-block ;
+}
+.rating a {
+	text-decoration: none ;
+	display: inline-block ;
+	font-size: 32px ;
+	font-size: 2rem ;    
+	color: #888 ;
+}
+.rating:hover a {
+	color: gold ;
+}
+.rating > a:hover ~ a {
+	color: #888 ;
+}
